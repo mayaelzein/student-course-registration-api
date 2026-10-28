@@ -2,7 +2,7 @@
 
 A Python REST API for managing students, courses, and course registrations using a MySQL database hosted on AWS.
 
-Developed as part of CS 346 (Cloud Computing) at the University of Arizona. The project originally used JSON-file storage before transitioning to a relational MySQL database.
+Developed as part of CSC coursework. The project originally used JSON-file storage before transitioning to a relational MySQL database.
 
 ## Features
 
